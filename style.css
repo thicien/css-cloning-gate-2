@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.headings {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .headings img {
+    margin-right: 30px;
+  }
+  
+  .headings button {
+    margin-right: 20px;
+  }
+  
+  .headings h4 {
+    margin: 0 10px;
+  }
+  
+  .headings h4:last-of-type {
+    margin-left: auto;
+  }
