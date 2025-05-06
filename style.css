@@ -551,4 +551,26 @@ body{
   .footer-links a:hover {
     text-decoration: underline;
   }
+  .head {
+    color: white;
+    text-align: center; /* Centers the text */
+  }
+  .headings {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; /* Keeps it on top of other elements */
+  }
+  .headings {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-top: 10px; /* Reduced padding from the top */
+    padding-bottom: 20px; /* Padding from the bottom (can be adjusted as needed) */
+    z-index: 1000; /* Keeps it on top of other elements */
+  }
   
